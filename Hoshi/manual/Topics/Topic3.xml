@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T20:43:45.250+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Приложение</title>
+  <keywords>
+    <keyword>Приложение</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Revard; font-size:25pt;">Приложение</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">После запуска приложения появляется загрузачная заставка, после заставки - гланое меню приложения.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0018.png" imagestyleclass="Default" scale="92.58%" width="424" height="474" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">В главном меню присутствуют 3 кнопки:</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; color:#000000;">
+      <li styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">&quot;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="-PLAY" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">PLAY</link><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">&quot;(Выбор уровней)</text></li>
+      <li styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">&quot;EXIT&quot;(Выход из игры)</text></li>
+      <li styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">&quot;Справка&quot;(Вопросик)</text></li>
+      <li styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">&quot;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Topic4" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">Кнопка настроек</link><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">(Шестеренка)&quot;</text></li>
+    </list>
+  </body>
+</topic>

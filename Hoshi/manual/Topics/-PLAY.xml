@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T19:47:07.662+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Кнопка &quot;PLAY&quot;</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Revard; font-size:24pt;">Кнопка &quot;PLAY&quot;</text></para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">После нажатия на кнопку пользователь сможет выбрать уровень для прохождения.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0003.png" imagestyleclass="Default" scale="85.58%" width="400" height="439" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;">Кнопки перехода на уровни(У каждого уровня свой уровень сложности, соответсвующий количеству отображаемых цифр после запуска уровня):</text></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;">Уровень 1 - 40 открытых ячеек</text></para>
+    <para styleclass="Normal"><image src="clip0004.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image><tab /></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;">Уровень 2 - 35 открытых ячеек</text></para>
+    <para styleclass="Normal"><image src="clip0005.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-weight:normal;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-weight:normal;"> &#160; &#160; &#160; </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;">Уровень 3 - 30 открытых ячеек</text></para>
+    <para styleclass="Normal"><image src="clip0006.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-weight:normal;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-weight:normal;"> &#160; </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">Кнопка перехода на главную форму(Esc):</text></para>
+    <para styleclass="Normal"><image src="clip0007.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

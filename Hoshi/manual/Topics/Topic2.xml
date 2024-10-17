@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T19:45:14.203+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Правила</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Revard; font-size:24pt;">Правила игры &quot;Головоломка Хоши&quot;</text></para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:18pt; font-weight:bold;">Правила:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">1. Игровое поле:</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игровое поле представляет собой сетку, состоящую из треугольных ячеек.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Ячейки могут быть ориентированы вершиной вверх или вниз.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">2. Цель игры:</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игроку необходимо заполнить все пустые ячейки на игровом поле цифрами (от 1 до 9).</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Цифры должны быть расставлены в соответствии с логическими правилами игры.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">3. Логические правила:</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - В каждом ряду (горизонтальном или диагональных, а также в каждом треугольнике) не может быть более одного одинакового символа.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Символы в определенных ячейках могут быть предзаданы, и игрок должен разместить остальные символы, соблюдая правила.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Расположение символов в некоторых ячейках может быть ограничено определенными правилами, например, две одинаковые ячейки не могут быть расположены рядом.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">4. Игровой процесс:</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игрок начинает с пустого игрового поля и расставляет символы в ячейках, соблюдая логические правила.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игрок может использовать различные стратегии, такие как логический анализ, исключение вариантов и интуитивное размещение символов.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игра продолжается до тех пор, пока все ячейки не будут заполнены правильно.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">6. Победа и завершение игры:</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игрок побеждает, если он успешно заполнил все ячейки игрового поля в соответствии с правилами.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;"> &#160; - Игра может быть завершена, если игрок не может найти правильное решение или решает сдаться.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:16pt;">Следуя этим основным правилам, игроки могут погрузиться в увлекательный процесс решения головоломки Хоши, развивая при этом логическое мышление, внимательность и стратегическое планирование.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

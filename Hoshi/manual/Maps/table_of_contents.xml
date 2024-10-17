@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="454697602505323" build="ALL" modified="2024-06-26T18:32:04.379Z" icon="0" href="Topic">
+    <caption translate="true">Вступление</caption>
+    <topicref type="topic" id="454698552082135" build="ALL" modified="2024-06-26T18:46:36.911Z" icon="0" href="Topic2">
+      <caption translate="true">Правила</caption>
+    </topicref>
+    <topicref type="topic" id="454697477254186" build="ALL" modified="2024-06-26T19:06:38.263Z" icon="0" href="-">
+      <caption translate="true">Об игре</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="454698899088506" build="ALL" modified="2024-06-26T19:13:22.887Z" icon="0" href="Topic3">
+    <caption translate="true">Приложение</caption>
+    <topicref type="topic" id="454698098168844" build="ALL" modified="2024-06-26T19:21:47.589Z" icon="0" href="-PLAY">
+      <caption translate="true">Кнопка &quot;PLAY&quot;</caption>
+      <topicref type="topic" id="454698279500920" build="ALL" modified="2024-06-26T19:47:26.067Z" icon="0" href="-1">
+        <caption translate="true">Уровень 1</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="454697793996982" build="ALL" modified="2024-06-26T19:39:35.007Z" icon="0" href="Topic4">
+      <caption translate="true">Шестерёнка</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="454699539081600" build="ALL" modified="2024-06-26T20:03:45.617Z" icon="0" href="-2">
+    <caption translate="true">Об авторе</caption>
+  </topicref>
+</map>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T20:12:52.650+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Об авторе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text style="font-family:Revard; font-size:24pt;">Об авторе</text></para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:bold;">Разработал</text><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">: Петько Алексей Павлович, учащийся второго курса, группы ПЗТ-40</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:bold;">Место учебы</text><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">: </text><text styleclass="" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; color:#000000;">Гродненский государственный политехнический колледж</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.50; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:bold; color:#000000;">Специальность:</text><text styleclass="" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; color:#000000;"> Программное обеспечение информационных технологий</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.50; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T19:05:08.609+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Вступление</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Revard; font-size:24pt;">Головоломка Хоши</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Судоку-звезда 18.bmp" scale="100.00%" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Comment"><text style="font-family:&apos;Bahnschrift SemiLight Condensed&apos;; font-size:18pt;">Головоломка Хоши - это логическая игра-головоломка, которая представляет собой сетку из ячеек, в которых необходимо расставить определенные символы в соответствии с правилами. Правила. &#160;Ключевая особенность этой головоломки заключается в том, что она использует треугольные ячейки вместо традиционных квадратных.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

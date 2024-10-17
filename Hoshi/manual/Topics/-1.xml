@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-26T21:18:57.102+03:00" lasteditedby="user" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Уровень 1</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="font-family:Revard; font-size:24pt;">Реализация уровней</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;">Уровень имеет вид:</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0013.png" imagestyleclass="Default" scale="79.48%" width="634" height="430" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">Каждый уровень имеет такие состовляющие как:</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">1)</text><image src="clip0014.png" imagestyleclass="Default" scale="34.95%" width="172" height="173" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;"> - поле значений, которое нужно заполнить для прохождения игры.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">2)</text><image src="clip0015.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;"> - количество попыток оставшихся у игрока.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">3)</text><image src="clip0016.png" imagestyleclass="Default" scale="58.89%" width="122" height="106" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt; font-weight:normal;"> - вспомогательные кнопки ввода значения.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">Для выхода с уровня пользователю необходима нажать на кнопку закрывающую форму: </text><image src="clip0017.png" imagestyleclass="Default" scale="100.00%" styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;" figurelistinclude="0"></image><text styleclass="Image Caption" style="font-family:&apos;Bahnschrift Light SemiCondensed&apos;; font-size:16pt;">.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
