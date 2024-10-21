@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C754CC3F-8610-4B8C-B004-A1767C6CFA5D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Hoshi.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Hoshi">
+        <MSBuild Projects="Hoshi.dproj"/>
+    </Target>
+    <Target Name="Hoshi:Clean">
+        <MSBuild Projects="Hoshi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Hoshi:Make">
+        <MSBuild Projects="Hoshi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Hoshi"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Hoshi:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Hoshi:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
